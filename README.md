@@ -1,6 +1,6 @@
 # Global Stock Price Archive 
 
-This analysis conducts a comprehensive analysis of a dataset containing global stock price information. The dataset includes data related to various stock indices, companies, and their stock price details such as opening, highest, lowest, closing prices, adjusted closing prices, and traded shares. The dataset is structured around key attributes, including company name, stock ticker symbols, currency, 
+This analysis conducts a comprehensive analysis of a dataset containing global stock price information. The dataset includes data related to various stock indices, companies, and their stock price details such as opening, highest, lowest, closing prices, adjusted closing prices, and traded shares. The dataset is structured around key attributes, including company name, stock ticker symbols, currency, and exchange markets.
 
 **[Global Stock Price Archive](https://www.kaggle.com/datasets/adityakishor1/global-stock-price-archive/)** from **[Kaggle](https://www.kaggle.com)**.
 
